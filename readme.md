@@ -41,7 +41,7 @@ Convert your Blogger blog posts into a compiled ebook format (HTML, Markdown, PD
 
 1. Run the script:
    ```bash
-   python blogger_to_ebook_v2.py
+   python blog_to_ebook.py
    ```
 
 2. Enter your blog URL when prompted:
